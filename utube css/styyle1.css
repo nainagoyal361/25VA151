@@ -1,0 +1,37 @@
+#box{
+    background-color: blue;
+    color:white;
+}
+
+.heading{
+    color:red;
+}
+button{
+    background-color:palevioletred;
+}
+
+p{
+    text-align:center;
+    color:springgreen;
+}
+
+#new{
+    text-align: center;
+    text-decoration:underline;
+    color:darkturquoise
+}
+
+#one{
+    color:deepskyblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:10px;
+    line-height: normal;
+}
+#two{
+    color:blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height:30px;
+}

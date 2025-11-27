@@ -1,0 +1,16 @@
+div{
+    height:100px;
+    width:100px;
+    background-color: pink;
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
+
+h1{
+    height:50px;
+    width:300px;
+    background-color: aqua;
+    border:5px solid black;
+    text-align: center;
+}

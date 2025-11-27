@@ -1,0 +1,32 @@
+/* h1{
+    color:red;
+    background-color:burlywood;
+}
+
+p{
+    color:blue;
+    background-color: aquamarine;
+}
+
+button{
+    color:darkgreen;
+    background-color:white;
+}
+
+body{
+    background-color:lavenderblush;
+} */
+
+*{
+    color:pink;
+}
+button{
+    color:indigo;
+}
+#rebelkid{
+    color:darkred;
+}
+
+.myclass{
+    color:cornflowerblue;
+}
