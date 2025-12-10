@@ -1,0 +1,55 @@
+/* Navbar styling */
+.navbar {
+    background-color: #1c1c1c;
+    color: white;
+    padding: 12px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Logo styling */
+.logo {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Center navigation links */
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+.nav-links li a:hover {
+    color: #dcdcdc;
+}
+
+/* Right side actions */
+.actions a {
+    margin-left: 25px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.actions a:hover {
+    color: #dcdcdc;
+}
+
+/* Section styling */
+section {
+    padding: 25px 40px;
+}
+
+section h1 {
+    font-size: 26px;
+    margin-bottom: 5px;
+}

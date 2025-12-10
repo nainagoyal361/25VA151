@@ -1,0 +1,36 @@
+* {
+ margin: 0;
+ padding: 0;
+
+}
+.container {
+ width: 95%;
+ border: 2px solid black;
+ padding-bottom: 25px;
+ margin: 20px ;
+}
+header {
+ background-color: #d3d3d3;
+ text-align: center;
+ padding: 15px ;
+ }
+header span {
+ color: red;
+}
+nav {
+ margin-left: 15px;
+ margin-top: 15px;
+}
+nav a {
+ text-decoration: none;
+ background-color: #b6d7f7;
+ padding: 6px 18px;
+ margin-right: 10px;
+ border-radius: 3px;
+ display: inline-block;
+ color: black;
+
+}
+.sub-nav a {
+ background-color: #b6f7b8;
+}
